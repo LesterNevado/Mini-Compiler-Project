@@ -1,0 +1,5 @@
+int x = 2.5;
+double y = 8;
+boolean isTrue = yes;
+char letter = 'letter B';
+String message = 100;

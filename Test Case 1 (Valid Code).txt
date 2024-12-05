@@ -1,0 +1,5 @@
+int x = 1;
+double pi = 3.14;
+boolean isValid = true;
+char letter = 'A';
+String message = "Hello, world!";
